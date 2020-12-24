@@ -1,4 +1,4 @@
-# Three.js and WebGL Scroll 
+# Three.js with WebGL Scroll 
 
 Showcase scrolling using threejs shaders and WebGL renderer.
 
