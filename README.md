@@ -15,6 +15,9 @@ You need to install parcel bundler
 ```sh
 npm i -g parcel-bundler
 ```
+```sh
+npm install
+```
 
 Build and run project
 ```sh
